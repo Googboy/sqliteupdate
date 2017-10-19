@@ -1,0 +1,1 @@
+今天主要是完成昨天getReadableDatabase和getWritableDatabase方法不能调用出错的问题，还可以创建数据库，更新等功能。
